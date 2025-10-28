@@ -20,7 +20,7 @@ on:
         default: Danho
         required: True
 
-      name: Confirme
+      opcao:
         type: boolean
         description: Confirme execução!
 
