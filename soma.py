@@ -3,6 +3,6 @@
 import sys
 
 v1 = sys.argv[1]
-v2 = sys.argv[2}
+v2 = sys.argv[2]
 
 print('Soma',v1 + v2)
