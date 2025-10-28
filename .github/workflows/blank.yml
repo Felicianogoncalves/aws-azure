@@ -53,4 +53,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          python exemplo.py feliciano junior goncalves
+          python exemplo.py ${{ github.event.inputs.nome }} ${{ github.event.inputs.apelido }} ${{ github.event.inputs.cidade }}
