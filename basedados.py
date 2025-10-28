@@ -7,4 +7,4 @@ servidor = sys.argv[1]
 user = sys.argv[2]
 password = "*****"
 
-print(f'O servidor é {servidor} o user é {user} e a pass é {password})
+print(f'O servidor é {servidor} o user é {user} e a pass é {password}')
