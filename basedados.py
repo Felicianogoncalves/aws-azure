@@ -5,6 +5,6 @@ print("Parametros: ", sys.argv[1:])
  
 servidor = sys.argv[1]
 user = sys.argv[2]
-password = *****
+password = "*****"
 
 print(f'O servidor é {servidor} o user é {user} e a pass é {password})
